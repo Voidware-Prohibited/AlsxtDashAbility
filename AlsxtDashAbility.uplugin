@@ -14,7 +14,7 @@
 	"CanContainContent": true,
 	"IsBetaVersion": true,
 	"IsExperimentalVersion": false,
-	"Installed": false,
+	"Installed": true,
 	"Modules": [
 		{
 			"Name": "AlsxtDashAbilityRuntime",
@@ -22,8 +22,8 @@
 			"LoadingPhase": "Default"
 		}
 	],
-	"ExplicitlyLoaded": true,
-	"BuiltInInitialFeatureState": "Active",
+	"ExplicitlyLoaded": false,
+	"BuiltInInitialFeatureState": "Installed",
 	"Plugins": [
 		{
 			"Name": "ALSXT",

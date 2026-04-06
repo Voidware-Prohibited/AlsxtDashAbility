@@ -10,6 +10,25 @@
 * @file AlsxtDashAbilityGameplayTags.h
 * @brief Gameplay Tags for the Dash Gameplay Ability
 */
+
+namespace AlsxtAbilityGameplayTags
+{
+	UE_DECLARE_GAMEPLAY_TAG_EXTERN(Dash);
+}
+
+namespace AlsxtGASGameplayTags
+{
+	namespace StaminaCost
+	{
+		UE_DECLARE_GAMEPLAY_TAG_EXTERN(TAG_StaminaCost_Infinite_Dash);
+	}
+
+	namespace Statuses
+	{
+		UE_DECLARE_GAMEPLAY_TAG_EXTERN(TAG_State_Movement_Dash);
+	}
+}
+
 namespace AlsxtDashAbilityTags
 {
 	namespace State

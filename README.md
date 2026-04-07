@@ -1,7 +1,7 @@
 <h1 align="center">ALSXT Dash Ability Modular Game Feature</h1>
 
 <p align="center">
-<img src="ALSXT.png" alt="ALSXT">
+<img src="AlsxtDashAbility.png" alt="ALSXT Dash Ability">
 </p>
 
 <p align="center">
@@ -18,11 +18,17 @@
      <a href="https://liberapay.com/colorindarkness"><img alt="Support me on Liberapay" src="https://img.shields.io/badge/support_me_on-liberapay-yellow?link=https%3A%2F%2Fliberapay.com%2Fcolorindarkness%2F"></a>
 </p>
 
-An Dash Gameplay Ability implemented as a Modular Game Feature for  [ALSXT](https://github.com/Voidware-Prohibited/ALSXT).
+> [!NOTE]  Following the acquisition of GitHub by Microsoft, VOIDWARE Prohibited has taken the principled acion and have begun primarily hosting our code and content on Codeberg. Mirrors will still be maintained on GitHub and GitLab.
 
-_ALSXT is under heavy development, many features may not be finished or production-ready_.
 
-[ALSXT Notion](https://alsxt.notion.site/2be59e501e7a4bf583437d1636bc7f2f?v=ac361eb5a6a14081892ff9a68e3e7a44)
+
+A Dash Gameplay Ability implemented as a Modular Game Feature for  [ALSXT](https://github.com/Voidware-Prohibited/ALSXT).
+
+
+
+> [!WARNING]  _ALSXT is under heavy development, many features may not be finished or production-ready. Use at your own risk._ 
+
+
 
 _[Contibutors](#Contributions) and PRs are welcome_.
 
@@ -31,6 +37,7 @@ _[Contibutors](#Contributions) and PRs are welcome_.
 - [ALSXT](https://github.com/Voidware-Prohibited/ALSXT/)
 - [Advanced Locomotion System Refactored](https://github.com/Sixze/ALS-Refactored/)
 - [Gameplay Abilities](https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Plugins/GameplayAbilities/)
+- [Gameplay Targeting System](https://dev.epicgames.com/documentation/en-us/unreal-engine/gameplay-targeting-system-in-unreal-engine)
 
 # Installation
 
